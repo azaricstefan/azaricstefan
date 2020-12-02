@@ -5,9 +5,9 @@ I am a software engineer, program manager and enterpreneur. I'm creator of Zaka�
 <p align="right">Zakaži Tehnički logo</p>
 <img width="200" height="200" align="right" src="https://github.com/azaricstefan/azaricstefan/blob/master/Logo.png">
 
-- 🔭 I’m currently working on Azure Synapse, SQL on-demand
+- 🔭 I’m currently working on Azure Synapse Analytics, serverless SQL pool
 - 🌱 I’m currently learning Go, Swift
-- 💬 Ask me about Azure Synapse | SQL on-demand | Azure Kubernetes Services
+- 💬 Ask me about Azure Synapse | serverless SQL | Azure Kubernetes Services
 - 📫 How to reach me: https://twitter.com/azaricstefan
 - ⚡ Fun fact: I play underwater hockey!
 
@@ -15,11 +15,11 @@ I am a software engineer, program manager and enterpreneur. I'm creator of Zaka�
 **azaricstefan/azaricstefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on Azure Synapse, SQL on-demand
+- 🔭 I’m currently working on Azure Synapse Analytics, serverless SQL
 - 🌱 I’m currently learning Go, Swift
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Azure Synapse | SQL on-demand | Azure Kubernetes Services
+- 💬 Ask me about Azure Synapse | serverless SQL | Azure Kubernetes Services
 - 📫 How to reach me: https://twitter.com/azaricstefan
 - ⚡ Fun fact: I play underwater hockey!
 -->
