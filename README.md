@@ -1,3 +1,5 @@
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stefan-azaric/) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/azaricstefan) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@azaricstefan)
+
 ### Hi, I'm Stefan 👋
 
 I am a software engineer, program manager and enterpreneur. I'm creator of Zakaži Tehnički app, an appointment scheduling app that helps Individuals and companies to register their vehicles easier and faster without waiting in line or having to call many vehicle inspection services to find the best time slot. I currently work as a Program Manager in Microsoft.
